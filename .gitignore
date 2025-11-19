@@ -1,0 +1,52 @@
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Jupyter runtime ---
+.jupyter/
+.jupyter/*
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Distribution / packaging ---
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- VSCode / PyCharm / IDE ---
+.vscode/
+.idea/
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Python annex ---
+*.sqlite
+*.db
+
+# --- Matplotlib cache ---
+.matplotlib/
+
+# --- IPython history ---
+.ipython/
+
+# --- Environment files ---
+*.env
+*.dotenv
